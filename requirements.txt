@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+pdfplumber
+python-docx
+langchain
+langchain-community
+serpapi
+python-dotenv
